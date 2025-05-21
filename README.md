@@ -92,6 +92,3 @@ The dataset used is `netflix_data.csv`, containing the following columns:
 
 **Author:**  
 HarshShinde0
-
-**Dataset Source:**  
-[Netflix Movies and TV Shows Dataset](https://www.kaggle.com/shivamb/netflix-shows)
